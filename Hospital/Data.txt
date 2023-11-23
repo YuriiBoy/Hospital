@@ -1,0 +1,15 @@
+1
+Petrenko Petro
+1983
+Zoya Markova
+covid
+2
+Ivanov Ivan
+1995
+Zoya Markova
+flu
+3
+Stepanenko Stepan
+1979
+Ina Bogdan
+covid

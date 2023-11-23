@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hospital", "Hospital\Hospital.vcxproj", "{73205900-EB32-4CDE-8C26-D3084511FDA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A71A7B4A-2130-4CAA-B30F-5B97130E37D0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Debug|x64.ActiveCfg = Debug|x64
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Debug|x64.Build.0 = Debug|x64
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Debug|x86.Build.0 = Debug|Win32
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Release|x64.ActiveCfg = Release|x64
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Release|x64.Build.0 = Release|x64
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Release|x86.ActiveCfg = Release|Win32
+		{73205900-EB32-4CDE-8C26-D3084511FDA7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512D58DF-5979-4BFC-AD53-942F18ED8203}
+	EndGlobalSection
+EndGlobal
